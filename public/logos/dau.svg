@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#0066B3" stroke="#F7941D" stroke-width="4"/>
+  <text x="100" y="85" text-anchor="middle" fill="white" font-size="20" font-weight="bold" font-family="Arial">جامعة</text>
+  <text x="100" y="115" text-anchor="middle" fill="white" font-size="20" font-weight="bold" font-family="Arial">دار العلوم</text>
+  <text x="100" y="155" text-anchor="middle" fill="#F7941D" font-size="16" font-weight="bold" font-family="Arial">DAU</text>
+</svg>

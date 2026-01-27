@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#5DADE2" stroke="#27AE60" stroke-width="4"/>
+  <text x="100" y="75" text-anchor="middle" fill="white" font-size="18" font-weight="bold" font-family="Arial">جامعة الإمام</text>
+  <text x="100" y="100" text-anchor="middle" fill="white" font-size="18" font-weight="bold" font-family="Arial">محمد بن سعود</text>
+  <text x="100" y="125" text-anchor="middle" fill="white" font-size="18" font-weight="bold" font-family="Arial">الإسلامية</text>
+  <text x="100" y="160" text-anchor="middle" fill="#27AE60" font-size="16" font-weight="bold" font-family="Arial">IMAMU</text>
+</svg>

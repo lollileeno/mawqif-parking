@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#003366" stroke="#FFD700" stroke-width="4"/>
+  <text x="100" y="70" text-anchor="middle" fill="white" font-size="14" font-weight="bold" font-family="Arial">جامعة الملك سعود</text>
+  <text x="100" y="95" text-anchor="middle" fill="white" font-size="14" font-weight="bold" font-family="Arial">بن عبدالعزيز</text>
+  <text x="100" y="120" text-anchor="middle" fill="white" font-size="14" font-weight="bold" font-family="Arial">للعلوم الصحية</text>
+  <text x="100" y="160" text-anchor="middle" fill="#FFD700" font-size="14" font-weight="bold" font-family="Arial">KSAU-HS</text>
+</svg>
